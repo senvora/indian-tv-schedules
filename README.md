@@ -7,11 +7,13 @@ This repository contains a PHP script to process XML files related to Indian TV 
 ### Usage
 To Use this epg or tv schedule add Following Link in Your Playlist.
 
+**1. JioTV Schedule** [📥 JioTV](https://indian-tv-schedules.vercel.app/jiotv.xml.gz)
 ```py
-https:senvora.github.io/epg/jiotv.xml.gz
+https://indian-tv-schedules.vercel.app/jiotv.xml.gz
 ```
+**2. TataPlay Schedule** [📥 TataPlay](https://indian-tv-schedules.vercel.app/tataplay.xml.gz)
 ```py
-https:senvora.github.io/epg/tataplay.xml.gz
+https://indian-tv-schedules.vercel.app/tataplay.xml.gz
 ```
 ### Credits 
 Special thanks to [K-vanc](https://github.com/K-vanc/Tempest-EPG-Generator.git) for the Tempest-EPG-Generator.
